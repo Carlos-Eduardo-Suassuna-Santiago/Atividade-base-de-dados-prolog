@@ -1,0 +1,75 @@
+1. Tipo de Pokémon:
+   - "tipo do Pikachu"
+   - "tipo do Charizard"
+
+2. Pokémons de um Tipo Específico:
+   - "pokemons do tipo Fogo"
+   - "pokemons de tipo Água"
+
+3. Pokémons Lendários:
+   - "pokemons lendarios"
+   - "pokemons lendários"
+
+4. Velocidade de um Pokémon:
+   - "velocidade do Jolteon"
+   - "velocidade do Gyarados"
+
+5. Ataque de um Pokémon:
+   - "ataque do Machamp"
+   - "ataque do Gengar"
+
+6. Defesa de um Pokémon:
+   - "defesa do Blastoise"
+   - "defesa do Onix"
+
+7. HP de um Pokémon:
+   - "hp do Snorlax"
+   - "hp do Bulbasaur"
+
+8. Informações Gerais de um Pokémon:
+   - "pokemon Pikachu"
+   - "pokemon Mewtwo"
+
+Exemplo de Uso:
+
+1. Tipo de Pokémon:
+   - Entrada: `tipo do Bulbasaur`
+   - Saída: `Bulbasaur é do tipo Planta, Veneno. Lendário: Não`
+
+2. Pokémons de um Tipo Específico:
+   - Entrada: `pokemons do tipo Elétrico`
+   - Saída: `Pikachu (Lendário: Não)`
+
+3. Pokémons Lendários:
+   - Entrada: `pokemons lendarios`
+   - Saída: `Mewtwo`
+   - Saída: `Articuno`
+
+4. Velocidade de um Pokémon:
+   - Entrada: `velocidade do Pidgeot`
+   - Saída: `Pidgeot tem 101 Pts de velocidade.`
+
+5. Ataque de um Pokémon:
+   - Entrada: `ataque do Dragonite`
+   - Saída: `Dragonite tem 134 Pts de ataque.`
+
+6. Defesa de um Pokémon:
+   - Entrada: `defesa do Steelix`
+   - Saída: `Steelix tem 200 Pts de defesa.`
+
+7. HP de um Pokémon:
+   - Entrada: `hp do Gyarados`
+   - Saída: `Gyarados tem 95 Pts de HP.`
+
+8. Informações Gerais de um Pokémon:
+   - Entrada: `pokemon Eevee`
+   - Saída:
+     ```
+     Eevee
+     HP: 55
+     Ataque: 55
+     Defesa: 50
+     Velocidade: 55
+     Tipo(s): Normal, nenhum
+     Lendário: Não
+     ```
